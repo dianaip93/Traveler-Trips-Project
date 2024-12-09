@@ -1,5 +1,5 @@
 # Destination Trends - Project
-Using data from traveler trips over the years, we are exploring to find out the most popular destinations, the best time of the year to travel, the most expensive and the most affordable cities, amongst others.
+Using historical traveler trip data, this project analyzes key trends to identify the most popular destinations, optimal travel seasons, and cost comparisons of cities, highlighting the most expensive and affordable locations. I utilized SQL for data extraction and manipulation and created interactive visualizations in Tableau to uncover actionable insights.
 
 ![Destination Trends Dashboard](https://github.com/dianaip93/Traveler-Trips-Project/blob/main/DestinationTrendsDashboard.png?raw=true)
 
