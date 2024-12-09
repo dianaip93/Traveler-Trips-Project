@@ -16,3 +16,4 @@ Using a traveler trips dataset, I employed SQL queries and analytical techniques
 
 ##  Data Visualization: 
 Designed and developed a dynamic Tableau dashboard to provide a comprehensive analysis of key travel trends. The dashboard features an interactive city filter, allowing users to compare metrics across all cities or focus on specific cities of interest. Visualizations include insights into the most visited cities, seasonal travel patterns, average traveler age, popular accommodations, trip durations, and spending, empowering stakeholders to explore and understand traveler behaviors with ease.
+https://public.tableau.com/app/profile/diana.perez.perez/viz/TRAVELERTRIP_Dashboard/TRAVELERTRIPS
