@@ -1,6 +1,8 @@
 # Destination Trends - Project
 Using data from traveler trips over the years, we are exploring to find out the most popular destinations, the best time of the year to travel, the most expensive and the most affordable cities, amongst others.
 
+![Destination Trends Dashboard](https://github.com/dianaip93/Traveler-Trips-Project/blob/main/DestinationTrendsDashboard.png?raw=true)
+
 ### Summary:
 Following data preparation, the exploration phase focused on providing actionable insights for a travel agency. During the analysis I aimed to address key business questions, such as identifying the right target market for each destination, selecting optimal accommodations, and planning trips during peak seasons. One of the main challenges I encountered was the size of the dataset, which made some queries less effective. However, as the dataset grows, these queries can be run regularly to provide more useful insights, helping the agency stay on top of changing travel trends and make informed decisions. 
 
